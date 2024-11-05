@@ -18,4 +18,4 @@ jobs:
       - name: Get working directory
       - run: |
           pwd
-      - run: echo "🍏 This job's status is ${{ job.status }}." '
+      - run: echo "🍏 This job's status is ${{ job.status }}."
